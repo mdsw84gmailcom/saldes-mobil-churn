@@ -1,6 +1,10 @@
 # Det träningen skriver
 outputs/
 
+# Modellfiler
+models/
+*.joblib
+
 # Python
 __pycache__/
 *.py[cod]
