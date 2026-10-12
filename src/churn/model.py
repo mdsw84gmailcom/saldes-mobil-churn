@@ -67,3 +67,4 @@ def main(utkatalog: Path = Path("outputs")) -> None:
 
 if __name__ == "__main__":
     main()
+# Test av path-filter i GitHub Actions
